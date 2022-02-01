@@ -10,12 +10,7 @@ const App = () => {
     <div className="App">
       <Nav />
       <Banner />
-      <Row
-        title="NETFLIX ORIGINALS"
-        fetchUrl={requests.fetchNetflixOriginals}
-        isLargeRow
-      />
-      <Row title="Trending Now" fetchUrl={requests.fetchTrending} />
+      <Row title="Trending Now" fetchUrl={requests.fetchTrending} isLargeRow />
       <Row title="Top Rated" fetchUrl={requests.fetchTopRated} />
       <Row title="Action" fetchUrl={requests.fetchActionMovies} />
       <Row title="Comedy" fetchUrl={requests.fetchComedyMovies} />
