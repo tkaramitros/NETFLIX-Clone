@@ -4,7 +4,7 @@ A Netflix clone built using React. It fetches the data from TMDB (The Movie Data
 
 # DEMO
 
-The app is deployed using Vercel at <link href=" https://netflix-clone-eight-mu.vercel.app">Netflix Clone</link>
+The app is deployed using Vercel at [Netflix Clone](https://netflix-clone-eight-mu.vercel.app)
 
 
 # Getting Started with Create React App
