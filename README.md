@@ -1,3 +1,12 @@
+# Netflix Clone with ReactJS
+
+A Netflix clone built using React. It fetches the data from TMDB (The Movie Database) API. It also displays the movie trailers which is fetched from Youtube.
+
+# DEMO
+
+The app is deployed using Vercel at <link href=" https://netflix-clone-eight-mu.vercel.app">Netflix Clone</link>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
